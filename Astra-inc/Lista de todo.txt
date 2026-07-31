@@ -1,0 +1,13 @@
+index.html
+.htaccess
+assets
+main.js
+style.css
+
+
+
+Cómo entregar/empaquetar estos archivos a un cliente (zip, hosting, repositorio, etc.)?
+Cómo subirlos a un hosting o dominio del cliente?
+Cómo cobrar/estructurar el servicio (precio, qué incluye, mantenimiento)?
+Algo técnico con el .htaccess o la configuración del sitio?
+Otra cosa que se te quedó en el tintero al escribir
